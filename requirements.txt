@@ -3,4 +3,4 @@ pillow
 numpy
 pandas
 plotly
-tensorflow
+tensorflow>=2.11
